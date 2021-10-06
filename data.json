@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "ibraheemdev/modern-unix",
+    "stargazers_count": 16555,
+    "open_issues_count": 45,
+    "forks_count": 361
+  },
+  {
+    "full_name": "0xGG/crossnote",
+    "stargazers_count": 703,
+    "open_issues_count": 55,
+    "forks_count": 46
+  },
+  {
     "full_name": "sonjiku/pywal",
     "stargazers_count": 15,
     "open_issues_count": 0,
@@ -8,7 +20,7 @@
   {
     "full_name": "djsnipa1/open-sauced-goals",
     "stargazers_count": 0,
-    "open_issues_count": 6,
+    "open_issues_count": 8,
     "forks_count": 0
   },
   {
@@ -31,7 +43,7 @@
   },
   {
     "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 5448,
+    "stargazers_count": 5449,
     "open_issues_count": 108,
     "forks_count": 977
   }
