@@ -1,7 +1,7 @@
 [
   {
     "full_name": "0xGG/crossnote",
-    "stargazers_count": 702,
+    "stargazers_count": 705,
     "open_issues_count": 55,
     "forks_count": 46
   },
@@ -14,74 +14,74 @@
   {
     "full_name": "romkatv/zsh4humans",
     "stargazers_count": 503,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 28
   },
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 16542,
+    "stargazers_count": 16563,
     "open_issues_count": 45,
-    "forks_count": 361
+    "forks_count": 362
   },
   {
     "full_name": "jarun/buku",
-    "stargazers_count": 4731,
+    "stargazers_count": 4730,
     "open_issues_count": 2,
     "forks_count": 247
   },
   {
     "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 5438,
-    "open_issues_count": 107,
-    "forks_count": 977
+    "stargazers_count": 5468,
+    "open_issues_count": 111,
+    "forks_count": 976
   },
   {
     "full_name": "dnote/dnote",
-    "stargazers_count": 2159,
+    "stargazers_count": 2160,
     "open_issues_count": 58,
     "forks_count": 89
   },
   {
     "full_name": "migueravila/Bento",
-    "stargazers_count": 694,
+    "stargazers_count": 698,
     "open_issues_count": 2,
-    "forks_count": 1074
+    "forks_count": 1075
   },
   {
     "full_name": "contour-terminal/contour",
-    "stargazers_count": 483,
-    "open_issues_count": 115,
+    "stargazers_count": 488,
+    "open_issues_count": 116,
     "forks_count": 32
   },
   {
     "full_name": "charmbracelet/glow",
-    "stargazers_count": 7152,
-    "open_issues_count": 49,
-    "forks_count": 140
+    "stargazers_count": 7162,
+    "open_issues_count": 50,
+    "forks_count": 142
   },
   {
     "full_name": "liriliri/eruda",
-    "stargazers_count": 11209,
+    "stargazers_count": 11215,
     "open_issues_count": 44,
-    "forks_count": 879
+    "forks_count": 880
   },
   {
     "full_name": "Schrodinger-Hat/ImageGoNord",
-    "stargazers_count": 372,
+    "stargazers_count": 374,
     "open_issues_count": 8,
     "forks_count": 9
   },
   {
     "full_name": "massgravel/Microsoft-Activation-Scripts",
-    "stargazers_count": 8101,
-    "open_issues_count": 17,
-    "forks_count": 1031
+    "stargazers_count": 8219,
+    "open_issues_count": 15,
+    "forks_count": 1046
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 6808,
-    "open_issues_count": 9,
-    "forks_count": 364
+    "stargazers_count": 6830,
+    "open_issues_count": 12,
+    "forks_count": 369
   },
   {
     "full_name": "HarryDulaney/deezer-example-web-app",
@@ -122,7 +122,7 @@
   {
     "full_name": "alexlee-dev/create-cli-application",
     "stargazers_count": 5,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 0
   },
   {
@@ -147,7 +147,7 @@
     "full_name": "fastai/fastmac",
     "stargazers_count": 2013,
     "open_issues_count": 4,
-    "forks_count": 169
+    "forks_count": 170
   },
   {
     "full_name": "peabrainiac/peabrainiac.github.io",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "DavidBuchanan314/tweetable-polyglot-png",
-    "stargazers_count": 2139,
+    "stargazers_count": 2137,
     "open_issues_count": 1,
     "forks_count": 136
   },
   {
     "full_name": "braver/programmingfonts",
-    "stargazers_count": 889,
-    "open_issues_count": 10,
+    "stargazers_count": 890,
+    "open_issues_count": 11,
     "forks_count": 67
   },
   {
     "full_name": "Gaafar/dev-fonts",
     "stargazers_count": 809,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 21
   },
   {
     "full_name": "khanhas/spicetify-cli",
-    "stargazers_count": 8419,
-    "open_issues_count": 20,
-    "forks_count": 323
+    "stargazers_count": 8439,
+    "open_issues_count": 18,
+    "forks_count": 325
   }
 ]
