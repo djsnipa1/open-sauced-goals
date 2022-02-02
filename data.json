@@ -1,13 +1,13 @@
 [
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 20199,
+    "stargazers_count": 20284,
     "open_issues_count": 61,
-    "forks_count": 474
+    "forks_count": 478
   },
   {
     "full_name": "0xGG/crossnote",
-    "stargazers_count": 773,
+    "stargazers_count": 774,
     "open_issues_count": 65,
     "forks_count": 51
   },
@@ -25,26 +25,26 @@
   },
   {
     "full_name": "insanum/sncli",
-    "stargazers_count": 343,
+    "stargazers_count": 342,
     "open_issues_count": 31,
     "forks_count": 27
   },
   {
     "full_name": "dnote/dnote",
-    "stargazers_count": 2199,
+    "stargazers_count": 2203,
     "open_issues_count": 59,
     "forks_count": 91
   },
   {
     "full_name": "jarun/buku",
-    "stargazers_count": 4938,
-    "open_issues_count": 8,
+    "stargazers_count": 4942,
+    "open_issues_count": 10,
     "forks_count": 260
   },
   {
     "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 7062,
-    "open_issues_count": 79,
+    "stargazers_count": 7117,
+    "open_issues_count": 77,
     "forks_count": 1056
   }
 ]
